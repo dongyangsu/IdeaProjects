@@ -10,6 +10,10 @@
           <option name="url" value="https://gitee.com/sdy-00/code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/sdy-00/IdeaProjects.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\软件项目开发综合实训" />
